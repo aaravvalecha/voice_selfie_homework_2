@@ -1,0 +1,20 @@
+.title{
+    font-family:cursive;
+    font-weight:600;
+
+}
+#popup{
+    color: rgb(255, 100, 100);
+}
+#camera{
+    width: 150px;
+    height: 140px;
+
+}
+img:hover {
+    border-radius: 30%;
+    width: 1000px;
+}
+body{
+    background-color: rgb(232, 198, 198);
+}
